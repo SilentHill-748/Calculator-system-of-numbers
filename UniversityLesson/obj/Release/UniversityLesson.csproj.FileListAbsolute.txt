@@ -1,0 +1,10 @@
+C:\Users\Silent Hill\Documents\GitHub\UniversityLesson\UniversityLesson\bin\Release\UniversityLesson.exe.config
+C:\Users\Silent Hill\Documents\GitHub\UniversityLesson\UniversityLesson\bin\Release\UniversityLesson.exe
+C:\Users\Silent Hill\Documents\GitHub\UniversityLesson\UniversityLesson\bin\Release\UniversityLesson.pdb
+C:\Users\Silent Hill\Documents\GitHub\UniversityLesson\UniversityLesson\obj\Release\UniversityLesson.csprojAssemblyReference.cache
+C:\Users\Silent Hill\Documents\GitHub\UniversityLesson\UniversityLesson\obj\Release\UniversityLesson.Form1.resources
+C:\Users\Silent Hill\Documents\GitHub\UniversityLesson\UniversityLesson\obj\Release\UniversityLesson.Properties.Resources.resources
+C:\Users\Silent Hill\Documents\GitHub\UniversityLesson\UniversityLesson\obj\Release\UniversityLesson.csproj.GenerateResource.cache
+C:\Users\Silent Hill\Documents\GitHub\UniversityLesson\UniversityLesson\obj\Release\UniversityLesson.csproj.CoreCompileInputs.cache
+C:\Users\Silent Hill\Documents\GitHub\UniversityLesson\UniversityLesson\obj\Release\UniversityLesson.exe
+C:\Users\Silent Hill\Documents\GitHub\UniversityLesson\UniversityLesson\obj\Release\UniversityLesson.pdb
